@@ -1,0 +1,48 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    
+  
+}
+.body
+{
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 50vh;
+    background-color: grey;
+}
+#screen1{
+    width: 98%;
+    
+    height: 50%;
+    margin: 5px;
+    padding: 5px;
+}
+.screen
+{
+    width: 100%;
+    margin: 0px;
+
+    height: 20%;
+    background-color: grey;
+}
+#button2
+{
+    margin: 4px;
+    width: 22%;
+    height: 13%;
+    color: rgb(255, 0, 0);
+    position: relative;
+left: 10px;
+    top: 8px;
+}
+.main{
+height: 100vh;
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+}
